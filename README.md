@@ -16,6 +16,8 @@
 
 最新版は[ここ](https://taow.4d.com/Tool-4D-Info-Report/PS.1938271.en.html)から入手することができます。
 
+[インストール方法](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report.pdf)
+
 * On Server Startupメソッドに記述
 
 ```
