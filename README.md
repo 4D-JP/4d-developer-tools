@@ -3,10 +3,15 @@
 
 **注記**: 各種ログファイルの仕様は[v16](http://doc.4d.com/4Dv16/4D/16.1/Appendix-E-Description-of-log-files.300-3373556.ja.html)で公開されました。
 
-### Request Log Analyzer
+## Request Log Analyzer
 
 [SET DATABASE PARAMETER](http://doc.4d.com/4Dv15/4D/15.4/SET-DATABASE-PARAMETER.301-3274410.ja.html)の``4D Server log recording (28)``および``Client Log Recording (45)``で出力したログファイルを解析するためのツール
 
+### アーカイブ資料
+
+[コマンドとリクエストの関係図](https://github.com/4D-JP/4d-developer-tools/blob/master/ReqLog.png)
+
+[ニーモニック表（不完全）](https://github.com/4D-JP/4d-developer-tools/blob/master/RequestID.xls)
 
 ### Log Analyzer
 
