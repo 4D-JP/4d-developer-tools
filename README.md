@@ -12,7 +12,9 @@
 
 [SET DATABASE PARAMETER](http://doc.4d.com/4Dv15/4D/15.4/SET-DATABASE-PARAMETER.301-3274410.ja.html)の``Debug log recording (34)``で出力したログファイルを解析するためのツール
 
-### Info Report
+## Info Report
+
+**環境情報**や**キャッシュメモリ**の状態を記録して解析するためのツール
 
 最新版は[ここ](https://taow.4d.com/Tool-4D-Info-Report/PS.1938271.en.html)から入手することができます。
 
@@ -25,8 +27,6 @@
 [v15ダウンロード](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9rZ_v15.zip)
 
 [v16ダウンロード](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9rZ_v16.zip)
-
-#### セットアップ
 
 * On Server Startupメソッドに記述
 
