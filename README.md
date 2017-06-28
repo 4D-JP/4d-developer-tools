@@ -9,9 +9,9 @@
 
 #### アーカイブ資料
 
-[v11アナライザー（4DB）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DB%20Request%20Log%20v11.zip)
+[v11ダウンロード（4DB）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DB%20Request%20Log%20v11.zip)
 
-[v12アナライザー（4DC）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DB%20Request%20Log%20v12.zip)
+[v12ダウンロード（4DC）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DB%20Request%20Log%20v12.zip)
 
 [コマンドとリクエストの関係図](https://github.com/4D-JP/4d-developer-tools/blob/master/ReqLog.png)
 
