@@ -18,6 +18,8 @@
 
 [インストール方法](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report.pdf)
 
+[説明書（英文）](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9_Ref_v23.pdf)
+
 * On Server Startupメソッドに記述
 
 ```
