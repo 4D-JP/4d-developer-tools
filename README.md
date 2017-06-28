@@ -1,6 +1,10 @@
 # 4d-developer-tools
 開発者向けのツール
 
+### Log Analyzer
+
+[SET DATABASE PARAMETER](http://doc.4d.com/4Dv15/4D/15.4/SET-DATABASE-PARAMETER.301-3274410.ja.html)の``Debug log recording (34)``で出力したログファイルを解析するためのツール
+
 ### Info Report
 
 最新版は[ここ](https://taow.4d.com/Tool-4D-Info-Report/PS.1938271.en.html)から入手することができます。
