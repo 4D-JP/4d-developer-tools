@@ -7,7 +7,7 @@
 
 [SET DATABASE PARAMETER](http://doc.4d.com/4Dv15/4D/15.4/SET-DATABASE-PARAMETER.301-3274410.ja.html)の``4D Server log recording (28)``および``Client Log Recording (45)``で出力したログファイルを解析するためのツール
 
-### アーカイブ資料
+#### アーカイブ資料
 
 [v11アナライザー（4DB）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DB%20Request%20Log%20v11.zip)
 
