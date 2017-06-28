@@ -21,6 +21,8 @@
 
 [SET DATABASE PARAMETER](http://doc.4d.com/4Dv15/4D/15.4/SET-DATABASE-PARAMETER.301-3274410.ja.html)の``Debug log recording (34)``で出力したログファイルを解析するためのツール
 
+[説明書](https://github.com/4D-JP/4d-developer-tools/blob/master/4D%20Log%20Analyzer%20JP.pdf)
+
 [説明書（英文）](https://github.com/4D-JP/4d-developer-tools/blob/master/14-19_4DLogAnalyzer.pdf)
 
 [v14ダウンロード（4DC）](https://github.com/4D-JP/4d-developer-tools/blob/master/14-19_4DLogAnalyzer.zip)
