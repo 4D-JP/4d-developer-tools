@@ -27,7 +27,9 @@
 
 [v14ダウンロード（4DC）](https://github.com/4D-JP/4d-developer-tools/blob/master/14-19_4DLogAnalyzer.zip)
 
-[v14ダウンロード（4DB）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DLogAnalyzer.4dbase%20v14.zip)
+[v14ダウンロード（4DB）9月ベータ版](https://github.com/4D-JP/4d-developer-tools/blob/master/4Dv14_LogAnalyzer_v1.0_Beta_7.zip)
+
+[v14ダウンロード（4DB）6月ベータ版](https://github.com/4D-JP/4d-developer-tools/blob/master/4DLogAnalyzer.4dbase%20v14.zip)
 
 ## Info Report
 
