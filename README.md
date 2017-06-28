@@ -27,6 +27,8 @@
 
 [v14ダウンロード（4DC）](https://github.com/4D-JP/4d-developer-tools/blob/master/14-19_4DLogAnalyzer.zip)
 
+[v14ダウンロード（4DB）](https://github.com/4D-JP/4d-developer-tools/blob/master/4DLogAnalyzer.4dbase%20v14.zip)
+
 ## Info Report
 
 **環境情報**や**キャッシュメモリ**の状態を記録して解析するためのツール
