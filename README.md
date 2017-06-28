@@ -20,6 +20,14 @@
 
 [説明書（英文）](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9_Ref_v23.pdf)
 
+[v14ダウンロード](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9rZ_v14.zip)
+
+[v15ダウンロード](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9rZ_v15.zip)
+
+[v16ダウンロード](https://github.com/4D-JP/4d-developer-tools/blob/master/4D_Info_Report_v4_9rZ_v16.zip)
+
+#### セットアップ
+
 * On Server Startupメソッドに記述
 
 ```
