@@ -1,6 +1,9 @@
 # 4d-developer-tools
 開発者向けのツール
 
+### Info Report
+
+最新版は[ここ](https://taow.4d.com/Tool-4D-Info-Report/PS.1938271.en.html)から入手することができます。
 
 * On Server Startupメソッドに記述
 
